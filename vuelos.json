@@ -1,0 +1,5 @@
+{"vuelos":[
+    { "idVuelo": "35464350", "origen": "Tenerife Sur", "destino": "Londres", "fechaIda": "10/05/2021 17:00", "fechaVuelta": "15/05/2021 19:00" },
+    { "idVuelo": "35464354", "origen": "Tenerife Norte", "destino": "Barcelona", "fechaIda": "20/05/2021 13:00", "fechaVuelta": "01/06/2021 10:00" }, 
+    { "idVuelo": "35464360", "origen": "Tenerife Norte", "destino": "Madrid", "fechaIda": "15/06/2021 15:00", "fechaVuelta": "22/06/2021 08:00" }
+]}
